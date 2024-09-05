@@ -6,8 +6,6 @@ pluginDepends:
 - InfinityExpansion
 - LiteXpansion
 - TranscEndence
-- GuizhanLibPlugin
-- Gastronomicon
 version: Release-EN-1.0
 description: HaimanTech2 aims to improve Slimefun's technology line and expand new
   original gameplay.

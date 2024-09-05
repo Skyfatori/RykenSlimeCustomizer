@@ -1104,7 +1104,7 @@ HAIMAN_FDTIAODIAN_MAHCINE_Q:
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_IGNIS_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Ignis Generator'
     lore:
@@ -1115,6 +1115,7 @@ BETTER_SUPREME_IGNIS_GENERATOR:
     - '&8⇨ &e⚡&7 500000 J Storeable'
     - '&8⇨ &e⚡&7 500000 J/s'
     material: ORANGE_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1162,13 +1163,14 @@ BETTER_SUPREME_IGNIS_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
-BETTER_SUPREME_VENTUS_GENERATOR:
+COMPRESSED_SUPREME_VENTUS_GENERATOR:
   lateInit: true
   item_group: hm_supreme
   item:
-    name: '&c&lBetter Ventus Generator'
+    name: '&bCompressed Ventus Generator'
     lore:
     - '&7Better supreme generator to make the server smoother'
     - '&7More value-added electricity generation'
@@ -1177,6 +1179,7 @@ BETTER_SUPREME_VENTUS_GENERATOR:
     - '&8⇨ &e⚡&7 50000 J Storeable'
     - '&8⇨ &e⚡&7 25000 J/s'
     material: LIGHT_BLUE_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1215,8 +1218,260 @@ BETTER_SUPREME_VENTUS_GENERATOR:
       material_type: slimefun
       material: SUPREME_BASIC_VENTUS_GENERATOR
       amount: 1
+  capacity: 50000
+  production: 25000
+  fuels:
+    '1':
+      seconds: 99999999
+      item:
+        material_type: mc
+        material: COBBLESTONE
+        amount: 1
+  input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
+  output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
+DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR:
+  lateInit: true
+  item_group: hm_supreme
+  item:
+    name: '&9Double Compressed Ventus Generator'
+    lore:
+    - '&7Better supreme generator to make the server smoother'
+    - '&7More value-added electricity generation'
+    - '&7Need to input 1 Cobblestone'
+    - '&aGenerator'
+    - '&8⇨ &e⚡&7 500,000 J Storeable'
+    - '&8⇨ &e⚡&7 250,000 J/s'
+    material: BLUE_WOOL
+  hidden: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: COMPRESSED_SUPREME_BASIC_VENTUS_GENERATOR
+      amount: 1
   capacity: 500000
   production: 250000
+  fuels:
+    '1':
+      seconds: 99999999
+      item:
+        material_type: mc
+        material: COBBLESTONE
+        amount: 1
+  input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
+  output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
+TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR:
+  lateInit: true
+  item_group: hm_supreme
+  item:
+    name: '&1Triple Compressed Ventus Generator'
+    lore:
+    - '&7Better supreme generator to make the server smoother'
+    - '&7More value-added electricity generation'
+    - '&7Need to input 1 Cobblestone'
+    - '&aGenerator'
+    - '&8⇨ &e⚡&7 5,000,000 J Storeable'
+    - '&8⇨ &e⚡&7 2,500,000 J/s'
+    material: BLUE_CONCRETE
+  hidden: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DOUBLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+  capacity: 5000000
+  production: 2500000
+  fuels:
+    '1':
+      seconds: 99999999
+      item:
+        material_type: mc
+        material: COBBLESTONE
+        amount: 1
+  input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
+  output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
+QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR:
+  lateInit: true
+  item_group: hm_supreme
+  item:
+    name: '&2Quadruple Compressed Ventus Generator'
+    lore:
+    - '&7Better supreme generator to make the server smoother'
+    - '&7More value-added electricity generation'
+    - '&7Need to input 1 Cobblestone'
+    - '&aGenerator'
+    - '&8⇨ &e⚡&7 50,000,000 J Storeable'
+    - '&8⇨ &e⚡&7 25,000,000 J/s'
+    material: LIGHT_BLUE_STAINED_GLASS
+  hidden: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: TRIPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+  capacity: 50000000
+  production: 25000000
+  fuels:
+    '1':
+      seconds: 99999999
+      item:
+        material_type: mc
+        material: COBBLESTONE
+        amount: 1
+  input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
+  output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
+QUINTUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR:
+  lateInit: true
+  item_group: hm_supreme
+  item:
+    name: '&3Quintuple Compressed Ventus Generator'
+    lore:
+    - '&7Better supreme generator to make the server smoother'
+    - '&7More value-added electricity generation'
+    - '&7Need to input 1 Cobblestone'
+    - '&aGenerator'
+    - '&8⇨ &e⚡&7 500,000,000 J Storeable'
+    - '&8⇨ &e⚡&7 250,000,000 J/s'
+    material: BLUE_STAINED_GLASS
+  hidden: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: QUADRUPLE_COMPRESSED_SUPREME_VENTUS_GENERATOR
+      amount: 1
+  capacity: 500000000
+  production: 250000000
   fuels:
     '1':
       seconds: 99999999
@@ -1228,7 +1483,7 @@ BETTER_SUPREME_VENTUS_GENERATOR:
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_AQUA_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Aqua Generator'
     lore:
@@ -1239,6 +1494,7 @@ BETTER_SUPREME_AQUA_GENERATOR:
     - '&8⇨ &e⚡&7 500000 J Storeable'
     - '&8⇨ &e⚡&7 500000 J/s'
     material: BLUE_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1286,11 +1542,12 @@ BETTER_SUPREME_AQUA_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_LUX_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Lux Generator'
     lore:
@@ -1301,6 +1558,7 @@ BETTER_SUPREME_LUX_GENERATOR:
     - '&8⇨ &e⚡&7 500000 J Storeable'
     - '&8⇨ &e⚡&7 500000 J/s'
     material: WHITE_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1348,11 +1606,12 @@ BETTER_SUPREME_LUX_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_LUMIUM_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Lumium Generator'
     lore:
@@ -1363,6 +1622,7 @@ BETTER_SUPREME_LUMIUM_GENERATOR:
     - '&8⇨ &e⚡&7 5000000 J Storeable'
     - '&8⇨ &e⚡&7 1500000 J/s'
     material: BROWN_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1410,11 +1670,12 @@ BETTER_SUPREME_LUMIUM_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_THORNIUM_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Thornium Generator'
     lore:
@@ -1425,6 +1686,7 @@ BETTER_SUPREME_THORNIUM_GENERATOR:
     - '&8⇨ &e⚡&7 60000000 J Storeable'
     - '&8⇨ &e⚡&7 20000000 J/s'
     material: BLACK_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1472,11 +1734,12 @@ BETTER_SUPREME_THORNIUM_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
 BETTER_SUPREME_SUPREME_GENERATOR:
   lateInit: true
-  item_group: hm_supreme
+  item_group: locked_supreme
   item:
     name: '&c&lBetter Supreme Generator'
     lore:
@@ -1487,6 +1750,7 @@ BETTER_SUPREME_SUPREME_GENERATOR:
     - '&8⇨ &e⚡&7 120000000 J Storeable'
     - '&8⇨ &e⚡&7 40000000 J/s'
     material: PURPLE_WOOL
+  hidden: true
   recipe_type: ENHANCED_CRAFTING_TABLE
   recipe:
     1:
@@ -1534,5 +1798,6 @@ BETTER_SUPREME_SUPREME_GENERATOR:
         material_type: mc
         material: COBBLESTONE
         amount: 1
+      hidden: true
   input: [0, 1, 2, 3, 9, 10, 11, 12, 18, 19, 20, 21, 27, 28, 29, 30, 36, 37, 38, 39, 45, 46, 47, 48]
   output: [5, 6, 7, 8, 14, 15, 16, 17, 23, 24, 25, 26, 32, 33, 34, 35, 41, 42, 43, 44, 50, 51, 52, 53]
