@@ -1,0 +1,174 @@
+haimantech:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 1421f1514da756c8c6c7c0b83a79265c26c9ece66b3bad8fbd94bd96d7040d7e
+    name: '&7&kll{#ffff00}Hai{#ccff00}man{#88ff00}Tech{#44ff00}2&7&kll'
+  tier: 0
+slime_customizer_info:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: e2d003bb8e9916cd1fe60316696b2adc9a0723439be16bd535b9027a07653811
+    name: '&6&lHaimantech2 &7- &4&linfo'
+  parent: haimantech
+sakurafun_recipe:
+  lateInit: false
+  type: locked
+  item:
+    material: BEDROCK
+    name: '&6&m&lHaimantech2 &7&m- &6&m&lRecipe Type'
+  parent: haimantech
+slime_customizer_zuozhe:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 55e0006cc80ecb40a8f25171110152dfda56a0b9bb35662850d29fd1cf72e6e4
+    name: '&6&lHaimantech2 &7- &4&lAuthors'
+  parent: haimantech
+slime_customizer_material:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 6ded84393bec253cca66c04316726a858e574712b6ff9f273668da98efcc28f
+    name: '&6&lHaimantech2 &7- &b&lMaterials'
+  parent: haimantech
+slime_customizer:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 4b57a4c68d1d2c5de978ea6de4db91ef387ca6c37966bb8e7c8826f937e6c3
+    name: '&6&lHaimantech2 &7- &e&lEnergy and Electricity'
+  parent: haimantech
+slime_customizer_huanbao:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 6b9c49ffdf4ce4c6f5f049efc8ca0e08b9b5bbf3c6a8783dfaaccad77dfc997a
+    name: '&6&lHaimantech2 &7- &e&lPower Engineering and Trading'
+  parent: haimantech
+slime_customizer_fenzi:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 5dff8dbbab15bfbb11e23b1f50b34ef548ad9832c0bd7f5a13791adad0057e1b
+    name: '&6&lHaimantech2 &7- &9&lMolecular Recombination Instrument'
+  parent: haimantech
+slime_customizer_yitihua:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 952ffd08528ec8183b35aac658b29226ad8b9aacac8dd9e04cf186b11064ca4d
+    name: '&6&lHaimantech2 &7- &d&lAll in One'
+  parent: haimantech
+slime_customizer_farm:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: be43d0fabbd913c001d4dcec8b3294832b1f4ff79d8f3d5683a5070d371f8cf4
+    name: '&6&lHaimantech2 &7- &a&lAgricultural and Pastoral Machine'
+  parent: haimantech
+slime_customizer_new:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 5c41ec03251a85ed3650aac38d7dcdd9a1af413e8c5b7537d540828208f4bb63
+    name: '&6&lHaimantech2 &7- &8&l1.17 Machine'
+  parent: haimantech
+slime_customizer_19:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 4c697d2c9be992f04809b07a8096e69d089dc0908846e354fafc7729c71f34d8
+    name: '&6&lHaimantech2 &7- &e&l1.19 Machine'
+  parent: haimantech
+slime_customizer_20:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 3e7889a0d3ef9df1ef6e1956bcee825fa183fd672869275c88eb385391db554
+    name: '&6&lHaimantech2 &7- &6&l1.20 Machine'
+  parent: haimantech
+haiman_jiaju:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 4216af29b19a6ff7525d1853b814270b8f0685810b08870dce14bc8f1ea9743d
+    name: '&6&lHaimantech2 &7- &e&lFurniture'
+  parent: haimantech
+slime_customizer_xingji:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 97fb27a1a11ba456c0a13f90901364ced9ecad8fe9c99b6838ff5f4dab1f6191
+    name: '&6&lHaimantech2 &7- &b&lThe Universe'
+  parent: haimantech
+slime_customizer_generator:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 54e4e42f36339a59de4ee9bf21224cc446db8cec17565728b16602050d2a737
+    name: '&6&lHaimantech2 &7- &3&lModern Generator'
+  parent: haimantech
+slime_customizer_emoji:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 3baabe724eae59c5d13f442c7dc5d2b1c6b70c2f83364a488ce5973ae80b4c3
+    name: '&6&lHaimantech2 &7- &c&lEmoji'
+  parent: haimantech
+slime_customizer_zhuangshi:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: dc3cfe7f04e023199b30a9e8791aa5e48dea8cbcbd71a28d12d2562a7d348
+    name: '&6&lHaimantech2 &7- &5&lSundries'
+  parent: haimantech
+slime_customizer_slimefun_machine:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 931b6c35a8ac8366a4db51b042a8728dd2e8e5f2fe44aff08fcf5af3b921c6dd
+    name: '&6&lHaimantech2 &7- &2&lAdvanced Slimefun Machine'
+  parent: haimantech
+dianro:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: 5584432af6f382167120258d1eee8c87c6e75d9e479e7b0d4c7b6ad48cfeef
+    name: '&6&lHaimantech2 &7- &a&lElectric Capacity'
+  parent: haimantech
+slime_customizer_newyear:
+  lateInit: false
+  type: locked
+  item:
+    material_type: skull_hash
+    material: c458a397aac2fdb5a1bb9b42188d238af4f823018ca491a8e4aeb296fd9f89
+    name: '&4&lHappy New Year！'
+  month: 1
+hm_supreme:
+  lateInit: false
+  type: normal
+  item:
+    material: LIGHT_BLUE_GLAZED_TERRACOTTA
+    name: '&c&lCompressed Supreme Generators'
+  tier: 0

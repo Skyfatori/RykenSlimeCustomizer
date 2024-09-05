@@ -1,0 +1,48 @@
+FEIXIANXINGSW:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&5&lNonlinear Thinking'
+    lore:
+    - '&7A kind of thinking track.'
+    material_type: skull_hash
+    material: dd2f781f03c365bbc5dd1e7186ab38dc69465e836c9fe066a9a844f34a4da92
+    amount: 1
+  entity: BAT
+  chance: 12
+YASUOKONGJIAN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&c&lCrush Space'
+    lore:
+    - '&7A spatial structure.'
+    material_type: skull_hash
+    material: ef253aedd1ef3cf546dcc909df36c19fd7d696f7cabc02b06abd8d0642bd655f
+    amount: 1
+  entity: ENDERMITE
+  chance: 9
+DUIDIETEZHEN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&e&lStacking Feature'
+    lore:
+    - '&7A stacked state.'
+    material_type: skull_hash
+    material: ad66b25fbf685b09d33ecab17db4135fccecc3016d9e8045249e818759f2feb6
+    amount: 1
+  entity: SILVERFISH
+  chance: 14
+CREEPER_COAL_HEART:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&4&lCarbonized Heart'
+    lore:
+    - '&7Can''t be revived...'
+    material_type: skull_hash
+    material: 2c50e3e6150d07cca09ed707b244043c9437dbd1be98ee08ae0340ccb6d58c89
+    amount: 1
+  entity: CREEPER
+  chance: 1

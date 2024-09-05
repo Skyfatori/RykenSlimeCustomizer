@@ -1,0 +1,16 @@
+id: RSC_HaimanTech2_EN
+name: HaimanTech2-EN
+depends: []
+pluginDepends:
+- FoxyMachines
+- InfinityExpansion
+- LiteXpansion
+- TranscEndence
+- GuizhanLibPlugin
+- Gastronomicon
+version: Release-EN-1.0
+description: HaimanTech2 aims to improve Slimefun's technology line and expand new
+  original gameplay.
+authors:
+- haiman233
+repo: https://github.com/haiman233/HaimanTech2-EN

@@ -1,0 +1,4076 @@
+HAIMANTECH_INFO:
+  lateInit: false
+  item_group: slime_customizer_info
+  item:
+    name: '&c&lHaimanTech2 Info'
+    lore:
+    - '&7This addon was written by haiman.'
+    - '&7Thanks to yitoudaidai and yh_mc for their cooperation with me.'
+    - '&7Thanks to all the server owners who have trusted and installed HaimanTech2.'
+    - '&7Inspired by the majority of players.'
+    - '&7Note: Players cannot use these items such as command block.'
+    - '&7They''re just materials.'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+VERSION_INFO:
+  lateInit: false
+  item_group: slime_customizer_info
+  item:
+    name: '&c&lVersions'
+    lore:
+    - '&fHaimanTech2`s version：'
+    - '&bRelease-EN-1.0'
+    - '&7You need to show this when you mention issues.'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+ZHANWEIFU:
+  lateInit: false
+  item_group: slime_customizer_info
+  item:
+    name: '&7 '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    2:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    3:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    4:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    5:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    6:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    7:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    8:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+    9:
+      material_type: mc
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+      amount: 1
+HAIMAN_INFO_FENZI_3:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&c&lMolecular Recombination Instrument Recipe'
+    lore:
+    - '&7The item is made in a molecular recombiner instrument 3.'
+    material_type: skull_hash
+    material: 5dff8dbbab15bfbb11e23b1f50b34ef548ad9832c0bd7f5a13791adad0057e1b
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_FENZI_4:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&c&lMolecular Recombination Instrument Recipe'
+    lore:
+    - '&7The item is made in a molecular recombiner instrument 4.'
+    material_type: skull_hash
+    material: 57ccd36dc8f72adcb1f8c8e61ee82cd96ead140cf2a16a1366be9b5a8e3cc3fc
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_FENZI_5:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&4&lMolecular Recombination Instrument Recipe'
+    lore:
+    - '&7The item is made in a molecular recombiner instrument 5.'
+    material_type: skull_hash
+    material: 30a35957fce2344aa8557ba6b36187ab415249934607bbbed2a053c3a86cafc0
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_FENZI_32767:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&5&lMolecular Recombination Instrument Recipe'
+    lore:
+    - '&7The item is made in a molecular recombiner instrument 32767.'
+    material_type: skull_hash
+    material: 6f89b150be9c4c5249f355f68ea0c4391300a9be1f260d750fc35a1817ad796e
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_FENZI_GAIZHUANG:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&5&lMolecular Recombination Instrument Refitter Recipe'
+    lore:
+    - '&7This item needs to be upgraded in the molecular recombination instrument
+      refitter.'
+    material_type: skull_hash
+    material: 2afeefa29bfdb3202238a2c4b8dcb750506a30d122600f88725e5aa247335460
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_FENZI_YEHUAJI:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&5&lFuel Liquefier Recipe'
+    lore:
+    - '&7This item needs to be made in a fuel liquefier.'
+    material_type: skull_hash
+    material: 6080972b7c32da650cc86e9aad665ed8d0d48a3bdb0ba234d4fceac024c7952e
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_HAIMAN_ADVANCE_DYING:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&6&lUltimate Dyeing House Recipe'
+    lore:
+    - '&7This item needs to be dyed in the ultimate dyeing house.'
+    material_type: skull_hash
+    material: 391255206efac82b7e5ed6ce4b1ae5669ce55d087099299811007148bd1c8ece
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_CHUDIAN:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&6&lElectric Storager Recipe'
+    lore:
+    - '&7This item needs to be charged in the electric storager.'
+    material_type: skull_hash
+    material: 918a00b1c5ef0ba6d83e54fcbabb6272764f165d57ce8a26a916d4192a54c966
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_INFO_BIRTHDAY_CAKE_STOVE:
+  lateInit: false
+  item_group: sakurafun_recipe
+  item:
+    name: '&6&lRoaster Recipe'
+    lore:
+    - '&7This item needs to be baked in the roaster.'
+    material_type: skull_hash
+    material: 8f9da46d97461a1be10600cc546a9d4613e16cfb5719eeb39042e501836008ca
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HAIMAN_AMETHYST_DUST:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&5&lAmethyst Powder'
+    lore: []
+    material_type: mc
+    material: PURPLE_DYE
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: mc
+      material: AMETHYST_SHARD
+      amount: 1
+HEJINDING_YUANPEI:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&6&lAlloy Ingot Blank'
+    lore:
+    - '&7Further processing is needed'
+    material_type: skull_hash
+    material: 6849c8563b49c5cd65066b867e99edb285da95f0fd210e23fa35b5c5c5892107
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REFINED_IRON
+      amount: 1
+    2:
+      material_type: slimefun
+      material: REFINED_IRON
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REFINED_IRON
+      amount: 1
+    4:
+      material_type: slimefun
+      material: BRONZE_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: BRONZE_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: BRONZE_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 1
+HERANLIAOYJ:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&a&lNuclear Fuel Protoplasm'
+    lore:
+    - '&7Untreated nuclear fuel'
+    - '&7Don''t pour it directly into the sea!'
+    material_type: skull_hash
+    material: 9c64568adebf2844df824332dc27e4c66a8a9af6b4d752782f610db61d065
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: URANIUM
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PLUTONIUM
+      amount: 1
+RAINBOW_ZOT:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&b&lFour-color Zot'
+    lore:
+    - '&7It is formed by fitting zot of four colors.'
+    material_type: skull_hash
+    material: adc84c1d9289974cc2c5390377d66629eba61d605399bea374f368255f87e3e6
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: QUIRP_UP
+      amount: 1
+    2:
+      material_type: slimefun
+      material: QUIRP_DOWN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: QUIRP_LEFT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: QUIRP_RIGHT
+      amount: 1
+ZOT_INGOT:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&b&lZot Ingot'
+    lore:
+    - '&7This is a material refined from different types of zot.'
+    material_type: mc
+    material: NETHERITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: QUIRP_UP
+      amount: 1
+    2:
+      material_type: slimefun
+      material: QUIRP_DOWN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: QUIRP_LEFT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: QUIRP_RIGHT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_AMETHYST_DUST
+      amount: 1
+    6:
+      material_type: slimefun
+      material: QUIRPCONDENSATE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: UNSTABLEINGOT2
+      amount: 1
+    8:
+      material_type: slimefun
+      material: STABLEINGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: UNSTABLEINGOT3
+      amount: 1
+FUHEBAN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&8&lComposite Plate'
+    lore:
+    - '&7It is formed by pressing various alloy plates.'
+    material_type: mc
+    material: LIGHT_GRAY_DYE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TIN_PLATE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: IRIDIUM_PLATE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: GOLD_PLATE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: COPPER_PLATE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LAPOTRON_CRYSTAL
+      amount: 1
+    6:
+      material_type: slimefun
+      material: IRON_PLATE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DIAMOND_PLATE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CARBON_PLATE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: THORIUM_PLATE
+      amount: 1
+ARTIFICIAL_SILICON_BASED_MATERIALS:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&c&lArtificial Silicon-based Material'
+    lore:
+    - '&7This is a great innovation in Minecraft history.！'
+    - '&bUsually used to manufacture precision parts'
+    - '&band automation machines.'
+    material_type: mc
+    material: PHANTOM_MEMBRANE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MAG_THOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ENRICHED_NETHER_ICE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: UU_MATTER
+      amount: 1
+    4:
+      material_type: slimefun
+      material: FUHEBAN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: FUHEBAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STRANGE_NETHER_GOO
+      amount: 1
+    7:
+      material_type: mc
+      material: WITHER_ROSE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZOT_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BUCKET_OF_FUEL
+      amount: 1
+MINECRAFT_SOURCE_STONE:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&d&lMinecraft Originium'
+    lore:
+    - '&6This is the core of Minecraft.'
+    material_type: mc
+    material: LAPIS_LAZULI
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: FORTUNE_SINGULARITY
+      amount: 1
+    2:
+      material_type: mc
+      material: DEAD_BUSH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MAGIC_SINGULARITY
+      amount: 1
+    4:
+      material_type: slimefun
+      material: EARTH_SINGULARITY
+      amount: 1
+    5:
+      material_type: slimefun
+      material: GOLD_24K_BLOCK
+      amount: 1
+    6:
+      material_type: slimefun
+      material: METAL_SINGULARITY
+      amount: 1
+    7:
+      material_type: slimefun
+      material: IRIDIUM
+      amount: 1
+    8:
+      material_type: slimefun
+      material: REFINED_IRON
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ARTIFICIAL_SILICON_BASED_MATERIALS
+      amount: 1
+ANCIENT_ITEM:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&6&lAncient Relics'
+    lore:
+    - '&7Where did this come from?'
+    material_type: mc
+    material: ANCIENT_DEBRIS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: NETHERITE_SCRAP
+      amount: 1
+    2:
+      material_type: mc
+      material: POPPED_CHORUS_FRUIT
+      amount: 1
+    3:
+      material_type: mc
+      material: MUSIC_DISC_11
+      amount: 1
+    4:
+      material_type: mc
+      material: DAMAGED_ANVIL
+      amount: 1
+    5:
+      material_type: mc
+      material: PRISMARINE_SHARD
+      amount: 1
+    6:
+      material_type: mc
+      material: CRACKED_NETHER_BRICKS
+      amount: 1
+    7:
+      material_type: mc
+      material: PODZOL
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_AMETHYST_DUST
+      amount: 1
+    9:
+      material_type: mc
+      material: PODZOL
+      amount: 1
+MINECRAFT_DEAD_BUSH_GHOST:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&c&lDead Shrub Wood'
+    lore:
+    - '&7This is a legend...'
+    material_type: mc
+    material: DEAD_BUSH
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: mc
+      material: JIGSAW
+      amount: 2
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_4
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+ULTIMATE_ENERGY_MOTOR:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&4&lUltimate Energy Motor'
+    lore:
+    - '&8Is this the limit of the motor?'
+    material_type: skull_hash
+    material: 918a00b1c5ef0ba6d83e54fcbabb6272764f165d57ce8a26a916d4192a54c966
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: REPEATING_COMMAND_BLOCK
+      amount: 1
+    2:
+      material_type: mc
+      material: COMMAND_BLOCK
+      amount: 1
+    3:
+      material_type: mc
+      material: CHAIN_COMMAND_BLOCK
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TIN_CABLE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: COPPER_CABLE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: GOLD_CABLE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: IRIDIUM_PLATE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: IRIDIUM_PLATE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: IRIDIUM_PLATE
+      amount: 1
+JITANCHENZHOU:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&8&lAltar Bearing Shaft'
+    lore:
+    - '&7Device for supporting the operation of altar'
+    material_type: skull_hash
+    material: a9f3c8f48321e668ccac5300d7dc9b92a3fbe3deca2a38dd8191c68d251a4014
+    amount: 1
+  placeable: true
+  recipe_type: ANCIENT_ALTAR
+  recipe:
+    1:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_WALL
+      amount: 1
+    2:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_WALL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICKS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_SOUL_TORCH
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_BLACKSTONE_PRESSURE_PLATE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: SACRIFICIAL_ALTAR_SOUL_TORCH
+      amount: 1
+HAIMAN_INFINITY_CONSTRUCTOR_2:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&f&lInfinite Ingot Compression Singularity'
+    lore:
+    - '&7It is compressed by 32 infinite ingot singularities.'
+    material_type: skull_hash
+    material: 8af6bd2c033a838d4ff7fd555321e06cf806a75c4a2b5868c71004e02a1860a4
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 32
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_3
+      amount: 1
+HM_DONGLILINGJIAN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&6&lRobot Power Parts'
+    lore:
+    - '&7Parts disassembled from robots.'
+    material_type: skull_hash
+    material: fd880f423cc25aa86208115f57740e6627d695e71bb33fec381e4c66b20ffd72
+    amount: 1
+  placeable: true
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID_3
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ANDROID_INTERFACE_ITEMS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ANDROID_MEMORY_CORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ANDROID_INTERFACE_ITEMS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: YASUOKONGJIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_STAR_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: JITANCHENZHOU
+      amount: 1
+HM_CHAOPING_CIRCUIT_BOARD:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&4&lOverfrequency Circuit Board'
+    lore:
+    - '&8Different materials correspond to '
+    - '&8different functional areas.'
+    - '&8The more functional the machine, '
+    - '&8the more it needs this material. '
+    material_type: skull_hash
+    material: dcafbac5068197fda18636dfc4ce7f9df5af9b2a06e6f91e38ae35e4c435b2df
+    amount: 1
+  placeable: true
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: NUCLEAR_SALT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLOOD_INFUSED_SKULL
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PURE_BONE_DUST
+      amount: 1
+    4:
+      material_type: slimefun
+      material: POSEIDONS_BLESSING
+      amount: 1
+    5:
+      material_type: slimefun
+      material: FORCEFIELD_ENGINE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HM_DONGLILINGJIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: COMPRESSED_SPONGE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_STAR_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: FORCEFIELD_STABILIZER
+      amount: 1
+LIZI_YUANPEI:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&e&lZot Proembryo'
+    lore:
+    - '&7The foundation of automatic zots in the main world'
+    material_type: skull_hash
+    material: 5d63fd3d50e2aabdf8da463b939c57b24d5fd20b519dfdb9ce84e96b0ee3239b
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VERTICAL_POLARIZER
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HORIZONTAL_POLARIZER
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VERTICAL_POLARIZER
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HORIZONTAL_POLARIZER
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ZOT_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HORIZONTAL_POLARIZER
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VERTICAL_POLARIZER
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HORIZONTAL_POLARIZER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VERTICAL_POLARIZER
+      amount: 1
+MAGIC_SWEET_POTATO:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&6&lKonjac'
+    lore:
+    - '&7The strong surge in memory flashback...'
+    material_type: skull_hash
+    material: 454f2bc3ecf5075d0dde8a4a482f5ada21d3a6856bc7bfad51bbbc003c86c543
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: APPLE
+      amount: 64
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_32767
+      amount: 1
+FKS:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&6&lBlock Trees'
+    lore:
+    - '&7A wave in the retrospective memory...'
+    material_type: skull_hash
+    material: cdfd5bf1ff0543147c9d64e68761db6e4b7132ac658f0b8f79831fad9c289eca
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: OAK_SAPLING
+      amount: 64
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_32767
+      amount: 1
+HAIMAN:
+  lateInit: false
+  item_group: slime_customizer_zuozhe
+  item:
+    name: '&e&lhaiman`s head'
+    lore:
+    - '&7HaimanTech2`s author —— haiman'
+    material_type: skull_hash
+    material: 1421f1514da756c8c6c7c0b83a79265c26c9ece66b3bad8fbd94bd96d7040d7e
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: CREEPER_HEAD
+      amount: 4
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_HAIMAN_ADVANCE_DYING
+      amount: 1
+YITOUDAIDAI:
+  lateInit: false
+  item_group: slime_customizer_zuozhe
+  item:
+    name: '&e&lyitoudaidai`s head'
+    lore:
+    - '&7HaimanTech2`s partner —— yitoudaidai'
+    material_type: skull_hash
+    material: a2ac9cbc5befca3a8007a6d0b54b626459d0d510203ea1563a09883a525a747c
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: SKELETON_SKULL
+      amount: 4
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_HAIMAN_ADVANCE_DYING
+      amount: 1
+H_FUEL:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&2&lTritium Deuterium Composite Fuel'
+    lore:
+    - '&7A high-energy fuel'
+    - '&7It seems to alleviate the energy problem.'
+    material_type: skull_hash
+    material: 51e1078c12a91c780a7db1a81af1b9ea90eca9a97dee104115b2408895e4a572
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: PLUTONIUM
+      amount: 16
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_YEHUAJI
+      amount: 1
+HD_FUEL:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&d&lLiquefied Magnetic Monopole Fuel'
+    lore:
+    - '&7Using zots in the universe to make fuel'
+    - '&7It is one of the main ultra-high'
+    - '&7energy fuels in the future.'
+    material_type: skull_hash
+    material: be64ff0a2d427344b9349c8dea6f4a4cb7caccdb6f8f877c3e47bcbb42132325
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: ZOT_INGOT
+      amount: 16
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_YEHUAJI
+      amount: 1
+HT_MODULE_1:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&5&lCreative High Temperature Module'
+    lore:
+    - '&7It can raise the temperature to'
+    - '&7over 100 million degrees Celsius.'
+    material_type: skull_hash
+    material: f25a8dfe753c9c9251f0b0f6d94e9c8ffd42c1579550bf922d1862ff986c4d5
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITE_PANEL
+      amount: 5
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_5
+      amount: 1
+DOGE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&c&lDOGE'
+    lore:
+    - '&7The DOGE saves his life!'
+    material_type: skull_hash
+    material: a374fd6d1448fa130e9249af199023846b8fc877f117f3ac1c43403ba7fef3
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: BONE
+      amount: 64
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_32767
+      amount: 1
+HAIMAN_TEA:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&a&lStarbucks Milk Tea'
+    lore:
+    - '&7It''s three o''clock! Drink tea first!'
+    material_type: skull_hash
+    material: d672c57f4c7b9e962b45b55dd7bd7886880d7eef26db6c2cce03c8ff8c48
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: mc
+      material: FERN
+      amount: 64
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_FENZI_32767
+      amount: 1
+EMOJI_HAPPY:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Happy'
+    lore:
+    - '&7Hahaha！'
+    material_type: skull_hash
+    material: 3baabe724eae59c5d13f442c7dc5d2b1c6b70c2f83364a488ce5973ae80b4c3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_NERVOUS:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Sweating'
+    lore:
+    - '&7I cann''t hold my breath'
+    material_type: skull_hash
+    material: 6ccd5472a46f46e4cdfda9adea2320cccfbae11198b6aae163d17c4b5b4666d
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: PRISMARINE_CRYSTALS
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: WATER_BUCKET
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_ANGRY:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&4&lEmoji Angry'
+    lore:
+    - '&7Piss me off！(╬◣д◢)'
+    material_type: skull_hash
+    material: 4fb97b17c6395392658f32718aa46befa1c31d3572651c30f7d2bf3b93f6ead9
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: LAVA_BUCKET
+      amount: 1
+    5:
+      material_type: mc
+      material: NETHER_WART_BLOCK
+      amount: 1
+    6:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_ICE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&4&lEmoji Frozen'
+    lore:
+    - '&7Great reward for cold jokes...'
+    material_type: skull_hash
+    material: 46a77dfed8297dc44dad6f29faf7277dfa98eafbb53fa66c7730a50e3818484b
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BLUE_ICE
+      amount: 1
+    5:
+      material_type: mc
+      material: NETHER_WART_BLOCK
+      amount: 1
+    6:
+      material_type: mc
+      material: BLUE_ICE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_ZZZ:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Sleepy'
+    lore:
+    - '&7ZZZZZZZZ...'
+    material_type: skull_hash
+    material: 9c4a41554342b2cbfbd895e9ec7089ae861fec8f51693822ec1eb3ca3f18
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: MILK_BUCKET
+      amount: 1
+    5:
+      material_type: mc
+      material: YELLOW_BED
+      amount: 1
+    6:
+      material_type: mc
+      material: PAPER
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_OU:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Vomit'
+    lore:
+    - '&7yue!'
+    material_type: skull_hash
+    material: aabfabf0adb2a615e901fe0040e322c51fb7d11c82cfafa21e5221a5f6a2e030
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: FERMENTED_SPIDER_EYE
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: POISONOUS_POTATO
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_LAUGH:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Laughing'
+    lore:
+    - '&7Ahhahahahahaha!'
+    material_type: skull_hash
+    material: 5059d59eb4e59c31eecf9ece2f9cf3934e45c0ec476fc86bfaef8ea913ea710
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BUCKET
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: APPLE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_LAUGHING_CRYING:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Crying With Laughter'
+    lore:
+    - '&7Ahahaha......'
+    material_type: skull_hash
+    material: c2767e93720a81000cdb11bffe82f1ee6a67fbbc49576b0e4b403f0321e36f62
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: DIAMOND
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: WATER_BUCKET
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_SAD:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Sad'
+    lore:
+    - '&7Purr!'
+    material_type: skull_hash
+    material: 1c2672aaae58f3d1852d19b8422caf70b32582f8de3fcb5c7c24dacb7ebc3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: PAPER
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: WATER_BUCKET
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_CRY:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Crying'
+    lore:
+    - '&7Cry and shed bitter tears!'
+    material_type: skull_hash
+    material: 3255846467f33937db9f43cdfb34a0dfd12f57522e8a988e458b5ac3c134e
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: PUFFERFISH
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: WATER_BUCKET
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_SHIT:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Sh*t'
+    lore:
+    - '&7It`s Sh*t!'
+    material_type: skull_hash
+    material: f650232c1d8b337965087693449c02c960ca4393b048346a4f0b2e18e58fa
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BROWN_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: MELON_SEEDS
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_WOW:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Wow'
+    lore:
+    - '&7Wow!'
+    material_type: skull_hash
+    material: f720df911c052377065408db78a25c678f791eb944c063935ae86dbe51c71b
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: DIAMOND_BLOCK
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: ANCIENT_DEBRIS
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_CRAZY:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Crazy'
+    lore:
+    - '&7Wise eyes!'
+    material_type: skull_hash
+    material: 71becacec858a19848860b2522c32936adf1588c1ef42379403fef83da4bb
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    5:
+      material_type: mc
+      material: DIAMOND_AXE
+      amount: 1
+    6:
+      material_type: mc
+      material: NETHER_BRICK
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_LOVE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Love'
+    lore:
+    - '&7❥ლ(°◕‵ƹ′◕ლ)'
+    material_type: skull_hash
+    material: 545bd18a2aaf469fad72e52cde6cfb02bfbaa5bfed2a8151277f779ebcdcec1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: BEETROOT_SOUP
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_LUE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Tongue Spit'
+    lore:
+    - '&7Naughty！'
+    material_type: skull_hash
+    material: 5f15c9b8edc5629b6caa49148a20c5890853c2674385e43876ca56d1d465f
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: EGG
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: PINK_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_CONFIDENCE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Wry Mouth'
+    lore:
+    - '&7He is MVP！'
+    material_type: skull_hash
+    material: 44c8cd31bac657a3f26b52e262c83eb8338d56651fd22c1633565f3dbbc45777
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: DRIED_KELP
+      amount: 1
+    5:
+      material_type: mc
+      material: CHARCOAL
+      amount: 1
+    6:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_DEAD:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Dead'
+    lore:
+    - '&7This operation ... was sent directly to me.！'
+    material_type: skull_hash
+    material: b371e4e1cf6a1a36fdae27137fd9b8748e6169299925f9af2be301e54298c73
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: RED_MUSHROOM
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: WARPED_ROOTS
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_THINKING:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Thinking'
+    lore:
+    - '&7emmm，I`m thinking...'
+    material_type: skull_hash
+    material: 1fea99ad95b570175fda25c3a69788d6a9b854aa13f8a5ff63f6efedf581dfb6
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: CHORUS_FLOWER
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: LARGE_FERN
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_EMOTICON_EYES:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Eyes'
+    lore:
+    - '&7I am seeing you!'
+    material_type: skull_hash
+    material: bb2aef7da8fc1cb76edc1080fc2b4145e8d86782b7cd7358b1d65b652fd98c2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: ENDER_EYE
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: SPIDER_EYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_XOK:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Terrifying'
+    lore:
+    - '&7XOX'
+    material_type: skull_hash
+    material: 8ef97ddac7b83e56b90496ed0b3d6951a385236585b489f67acfef51ca7a63a7
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: DROPPER
+      amount: 1
+    6:
+      material_type: mc
+      material: QUARTZ
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_BIG_MOUTH_CRYING:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Big Mouth Crying'
+    lore:
+    - '&7AHHHHHHHHHHH!'
+    material_type: skull_hash
+    material: 5f6168dc202c049fbdd1b352176e198094bf7d1fac56240b5ea2b09b2fa5428a
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: WATER_BUCKET
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: TNT
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_COOL:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Handsome'
+    lore:
+    - '&7Wearing my beautiful little sunglasses！'
+    material_type: skull_hash
+    material: 2d2175ebe9ae0e1a658d9af82dacfb8369052d8121d4ea3886738a1cca5
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: COAL_BLOCK
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: COAL_BLOCK
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+EMOJI_BEARD:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Beard'
+    lore:
+    - '&7Composure!'
+    material_type: skull_hash
+    material: 3636f2724aa6aa4de7ac46c19f3c845fb14847a518c8f7e03d792c82effb1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: VINE
+      amount: 1
+    5:
+      material_type: mc
+      material: OBSERVER
+      amount: 1
+    6:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+HAIMAN_ELECTRIC_ENERGY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&e&lMeta-charge'
+    lore:
+    - '&7It represents the minimum charge.'
+    - '&8e=1.60x10∧-19C'
+    - '&bStoreable: &9250J'
+    - '&7Why?'
+    material_type: skull_hash
+    material: 3420cdf2af57cc757773ace3f1915cb72b5432a2fda3373b1678f98bea7ac7
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STONE_CHUNK
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+EMOJI_SPIKE:
+  lateInit: false
+  item_group: slime_customizer_emoji
+  item:
+    name: '&e&lEmoji Spike'
+    lore:
+    - '&7A sign of Brawl Stars！'
+    - '&7Lovely spike!(*╹▽╹*)'
+    material_type: skull_hash
+    material: 8d8f5fb387ca66fc2f65b91fcb231604548e8565895bb96c676984205e6f19
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: CACTUS
+      amount: 1
+    5:
+      material_type: mc
+      material: DISPENSER
+      amount: 1
+    6:
+      material_type: mc
+      material: CACTUS
+      amount: 1
+    7:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+HAIMAN_ELECTRIC_UNIT_EMPTY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lHaiman Electric Unit &8 (Empty)'
+    lore:
+    - '&7Can be used to store electricity.'
+    - '&bStoreable: &91136J'
+    material_type: skull_hash
+    material: 5c3f45c14e63710f3fc5d739837dd70e37835e639a16245e50b3dd83ee8085e3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: TUFF
+      amount: 1
+    2:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    3:
+      material_type: mc
+      material: TUFF
+      amount: 1
+    4:
+      material_type: mc
+      material: TUFF
+      amount: 1
+    5:
+      material_type: mc
+      material: REDSTONE
+      amount: 1
+    6:
+      material_type: mc
+      material: TUFF
+      amount: 1
+    7:
+      material_type: mc
+      material: TUFF
+      amount: 1
+    8:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    9:
+      material_type: mc
+      material: TUFF
+      amount: 1
+KULUN_ELECTRIC_UNIT_EMPTY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lCoulomb Electric Unit &8(Empty)'
+    lore:
+    - '&7Can be used to store electricity.'
+    - '&bStoreable: &920456J'
+    material_type: skull_hash
+    material: 43b8a32356d1ad99e31799db8d69d5588e9aff9290a044ca9b2359b7523ea39c
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: DIAMOND
+      amount: 1
+    2:
+      material_type: mc
+      material: SMOOTH_BASALT
+      amount: 1
+    3:
+      material_type: mc
+      material: DIAMOND
+      amount: 1
+    4:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    6:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 1
+    7:
+      material_type: mc
+      material: COPPER_INGOT
+      amount: 1
+    8:
+      material_type: mc
+      material: SMOOTH_BASALT
+      amount: 1
+    9:
+      material_type: mc
+      material: COPPER_INGOT
+      amount: 1
+LEIYI_ELECTRIC_UNIT_EMPTY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lRay Electric Unit &8(Empty)'
+    lore:
+    - '&7Can be used to store electricity.'
+    - '&bStoreable: &96628035J'
+    material_type: skull_hash
+    material: 8d2c19b442541351a6b81eeb6cbef41966ffb7dbe4c136b87f5baf9d14a
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: mc
+      material: AMETHYST_BLOCK
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: mc
+      material: CRYING_OBSIDIAN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KULUN_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    6:
+      material_type: mc
+      material: CRYING_OBSIDIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZOT_INGOT
+      amount: 1
+    8:
+      material_type: mc
+      material: AMETHYST_BLOCK
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZOT_INGOT
+      amount: 1
+INFINITE_ELECTRIC_UNIT_EMPTY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lInfinite Electric Unit &8(Empty)'
+    lore:
+    - '&7Can be used to store electricity.'
+    - '&bStoreable: &9119304647J'
+    material_type: skull_hash
+    material: de9e060261e6cab97d6292ee230b8e4fcfb23e172ea91ecf14684ae8cfb74bdf
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HM_CHAOPING_CIRCUIT_BOARD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ENRICHED_NETHER_ICE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LEIYI_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ENRICHED_NETHER_ICE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+LIANGZI_ELECTRIC_UNIT_EMPTY:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lQuantum Electric Unit &8(Empty)'
+    lore:
+    - '&7Can be used to store electricity.'
+    - '&bStoreable: &92147483647J'
+    material_type: skull_hash
+    material: dcd7a00de13ec9f3c59d7cf902d980f5d29002c0dad754acbda0f6c2b698fd05
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: ARTIFICIAL_SILICON_BASED_MATERIALS
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HM_CHAOPING_CIRCUIT_BOARD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ARTIFICIAL_SILICON_BASED_MATERIALS
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HT_MODULE_1
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITE_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HT_MODULE_1
+      amount: 1
+    7:
+      material_type: slimefun
+      material: MINECRAFT_SOURCE_STONE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_INFINITY_CONSTRUCTOR_2
+      amount: 1
+    9:
+      material_type: slimefun
+      material: MINECRAFT_SOURCE_STONE
+      amount: 1
+HAIMAN_ELECTRIC_UNIT_FULL:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lHaiman Electric Unit &8(Full)'
+    lore:
+    - '&7Can be used to output electricity.'
+    - '&bStoreable: &91136J'
+    material_type: skull_hash
+    material: 8431a1992ba53520e504eedfeb2d7261e0ba2d5a28f59d03a669b0ad03a442d5
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HAIMAN_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+KULUN_ELECTRIC_UNIT_FULL:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lCoulomb Electric Unit &8(Full)'
+    lore:
+    - '&7Can be used to output electricity.'
+    - '&bStoreable: &920456J'
+    material_type: skull_hash
+    material: 1ead4e8ae8eb454dbd985bb59c4c1375945aafd28a4eccf71e8d57fc978ef5
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KULUN_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+LEIYI_ELECTRIC_UNIT_FULL:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lRay Electric Unit &8(Full)'
+    lore:
+    - '&7Can be used to output electricity.'
+    - '&bStoreable: &96628035J'
+    material_type: skull_hash
+    material: 516b68376c181c9a7343fee3697faacec35129fb64de5914bdbf869c652c
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LEIYI_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+INFINITE_ELECTRIC_UNIT_FULL:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lInfinite Electric Unit &8(Full)'
+    lore:
+    - '&7Can be used to output electricity.'
+    - '&bStoreable: &9119304647J'
+    material_type: skull_hash
+    material: 31a3cd9b016b1228ec01fd6f0992c64f3b9b7b29773fa46439ab3f3c8a347704
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+LIANGZI_ELECTRIC_UNIT_FULL:
+  lateInit: false
+  item_group: slime_customizer_huanbao
+  item:
+    name: '&a&lQuantum Electric Unit &8(Full)'
+    lore:
+    - '&7Can be used to output electricity.'
+    - '&bStoreable: &92147483647J'
+    material_type: skull_hash
+    material: 2afeefa29bfdb3202238a2c4b8dcb750506a30d122600f88725e5aa247335460
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LIANGZI_ELECTRIC_UNIT_EMPTY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_CHUDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ZHANWEIFU
+      amount: 1
+HM_CAKE_BREAD:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&e&lCake Blank'
+    lore:
+    - '&7Used to make cakes.'
+    material_type: skull_hash
+    material: 8939e624850bb3e11da37eb549423de11e60f7f5762a5deae959453e6aee4079
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WHEAT_FLOUR
+      amount: 1
+    2:
+      material_type: mc
+      material: BREAD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WHEAT_FLOUR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CHEESE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HEAVY_CREAM
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CHEESE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WHEAT_FLOUR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: BUTTER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WHEAT_FLOUR
+      amount: 1
+HAIMAN_BIRTHDAY_CAKE_1:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&6&lDelicious Birthday Cake'
+    lore:
+    - '&7Happy birthday!'
+    material_type: skull_hash
+    material: 7ef2da482579136749ae739835c793fe28e42fb0aca520a091637b46ca0ab
+    amount: 1
+  placeable: true
+  recipe_type: 'NULL'
+  recipe:
+    2:
+      material_type: slimefun
+      material: HM_CAKE_BREAD
+      amount: 10
+    5:
+      material_type: slimefun
+      material: HAIMAN_INFO_BIRTHDAY_CAKE_STOVE
+      amount: 1
+HAIMAN_CHINESE_DRAGON_1:
+  lateInit: false
+  item_group: slime_customizer_newyear
+  item:
+    name: '&4&lChinese Loong'
+    lore:
+    - '&7Happy New Year！'
+    material_type: skull_hash
+    material: e715a045a481cb8a39e39149020ab1440502fa1cfece6fb3ccbf53d61e49ea
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: HAIMAN_AMETHYST_DUST
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HAIMAN_AMETHYST_DUST
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HAIMAN_AMETHYST_DUST
+      amount: 1
+    4:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    6:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: HANGING_ROOTS
+      amount: 1
+    8:
+      material_type: mc
+      material: HANGING_ROOTS
+      amount: 1
+    9:
+      material_type: mc
+      material: HANGING_ROOTS
+      amount: 1
+HAIMAN_TIGER_1:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&6&lTiger'
+    lore:
+    - '&7Howl！'
+    material_type: skull_hash
+    material: e060f00287e3767699ea79197eb4534345478fadf1cd53a7f81101d92
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: HONEYCOMB
+      amount: 1
+    2:
+      material_type: mc
+      material: HEART_OF_THE_SEA
+      amount: 1
+    3:
+      material_type: mc
+      material: HONEYCOMB
+      amount: 1
+    4:
+      material_type: mc
+      material: DEEPSLATE_COAL_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: DIAMOND_HORSE_ARMOR
+      amount: 1
+    6:
+      material_type: mc
+      material: DEEPSLATE_COAL_ORE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: MAGIC_LUMP_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: MAGIC_LUMP_3
+      amount: 1
+    9:
+      material_type: slimefun
+      material: MAGIC_LUMP_3
+      amount: 1
+HAIMAN_CHINA_1:
+  lateInit: false
+  item_group: slime_customizer_newyear
+  item:
+    name: '&a&lBlue and white Porcelain'
+    lore:
+    - '&7Made in Jingdezhen'
+    material_type: skull_hash
+    material: 45ca5e85c4aea608bd3443cabdf1c2bdde3b431ad3aa38fffe04a32eb7e525
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: NAME_TAG
+      amount: 1
+    2:
+      material_type: mc
+      material: CYAN_GLAZED_TERRACOTTA
+      amount: 1
+    3:
+      material_type: mc
+      material: NAME_TAG
+      amount: 1
+    4:
+      material_type: mc
+      material: CYAN_GLAZED_TERRACOTTA
+      amount: 1
+    5:
+      material_type: mc
+      material: WHITE_GLAZED_TERRACOTTA
+      amount: 1
+    6:
+      material_type: mc
+      material: CYAN_GLAZED_TERRACOTTA
+      amount: 1
+    7:
+      material_type: mc
+      material: WHITE_GLAZED_TERRACOTTA
+      amount: 1
+    8:
+      material_type: mc
+      material: WHITE_GLAZED_TERRACOTTA
+      amount: 1
+    9:
+      material_type: mc
+      material: WHITE_GLAZED_TERRACOTTA
+      amount: 1
+HAIMAN_CHINESE_LANTERN_1:
+  lateInit: false
+  item_group: slime_customizer_newyear
+  item:
+    name: '&4&lChinese Lanterns'
+    lore:
+    - '&7Happy New Year！'
+    material_type: skull_hash
+    material: 26283e7a88d32719304a37ede0c6a8c5dc9d9cf9b00a179cf904e8ce821312
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: PAPER
+      amount: 1
+    2:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: PAPER
+      amount: 1
+    4:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: SHROOMLIGHT
+      amount: 1
+    6:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: PAPER
+      amount: 1
+    8:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: PAPER
+      amount: 1
+HAIMAN_TIGER_FURRY_1:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&c&lTiger Velvet'
+    lore:
+    - '&7A rare material'
+    material_type: mc
+    material: ORANGE_DYE
+    amount: 1
+  placeable: true
+  recipe_type: ORE_CRUSHER
+  recipe:
+    1:
+      material_type: slimefun
+      material: HAIMAN_TIGER_1
+      amount: 1
+HAIMAN_NEW_YEAR_PIECE_1:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&d&lFragments of New Year'
+    lore:
+    - '&7A new beginning'
+    material_type: mc
+    material: RED_DYE
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: HAIMAN_TIGER_FURRY_1
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HAIMAN_TIGER_1
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HAIMAN_TIGER_FURRY_1
+      amount: 1
+    4:
+      material_type: mc
+      material: SOUL_LANTERN
+      amount: 1
+    5:
+      material_type: mc
+      material: GHAST_TEAR
+      amount: 1
+    6:
+      material_type: mc
+      material: LANTERN
+      amount: 1
+    7:
+      material_type: mc
+      material: GLISTERING_MELON_SLICE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_TIGER_1
+      amount: 1
+    9:
+      material_type: mc
+      material: GLISTERING_MELON_SLICE
+      amount: 1
+HAIMAN_NEW_YEAR_1:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&d&lThe New Year'
+    lore:
+    - '&7Everyone''s expectation...'
+    material_type: skull_hash
+    material: 77313f6e6652ed47d7064e83eb08ffa11b55dc5d52d6f78189701d9c2b8ec88
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+    9:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_PIECE_1
+      amount: 1
+CAO_TC:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&7&lMachine Slot Filler'
+    lore:
+    - '&7Used to fill unnecessary'
+    - '&7input and output slots.'
+    material_type: mc
+    material: GRAY_STAINED_GLASS_PANE
+    amount: 8
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: COBBLESTONE
+      amount: 1
+    2:
+      material_type: mc
+      material: COBBLESTONE
+      amount: 1
+    3:
+      material_type: mc
+      material: COBBLESTONE
+      amount: 1
+MEITANZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bCoal Seeds'
+    lore:
+    - '&7It can grow coal ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+TIEZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bIron Seeds'
+    lore:
+    - '&7It can grow iron ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+JINZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bGold Seeds'
+    lore:
+    - '&7It can grow gold ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+LVBAOSHIZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bEmerald Seeds'
+    lore:
+    - '&7It can grow emerald ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+ZUANSHIZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bDiamond Seeds'
+    lore:
+    - '&7It can grow diamond ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+SHIYINGZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bQuartz Seeds'
+    lore:
+    - '&7It can grow nether quartz ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+QINGJINSHIZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bLapis Seeds'
+    lore:
+    - '&7It can grow lapis ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+HONGSHISHIZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bRedstone Seeds'
+    lore:
+    - '&7It can grow redstone ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+    6:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+TONGZHONGZI:
+  lateInit: false
+  item_group: slime_customizer_zhuangshi
+  item:
+    name: '&bCopper Seeds'
+    lore:
+    - '&7It can grow copper ores.'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    2:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    3:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    4:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    5:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    6:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    7:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    8:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    9:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+HM_SHENQUAN_HEXIN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&e&lTheocratic Core'
+    lore:
+    - '&7It is made by splicing various theocracy materials.'
+    material_type: skull_hash
+    material: 5b10ed94080a07546a245ec837cfc5814c7658c7ef337be035a11b2e1e03ba16
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CREEPER_COAL_HEART
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ULTIMATE_ENERGY_MOTOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DUIDIETEZHEN
+      amount: 1
+    4:
+      material_type: mc
+      material: STRUCTURE_VOID
+      amount: 1
+    5:
+      material_type: mc
+      material: COMMAND_BLOCK_MINECART
+      amount: 1
+    6:
+      material_type: mc
+      material: CHAIN_COMMAND_BLOCK
+      amount: 1
+    7:
+      material_type: slimefun
+      material: YASUOKONGJIAN
+      amount: 1
+    8:
+      material_type: mc
+      material: KNOWLEDGE_BOOK
+      amount: 1
+    9:
+      material_type: slimefun
+      material: FEIXIANXINGSW
+      amount: 1
+HAIMAN_INGOT:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&b&lHaiman Ingot'
+    lore:
+    - '&7A lifelike ... creeper？'
+    material_type: skull_hash
+    material: 12208e6d30301bb70bf3043ac877b8bddb1590cff752a93ceae7c9d24efd67c9
+    amount: 1
+  placeable: false
+  recipe_type: MAGIC_WORKBENCH
+  recipe:
+    1:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_1
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HAIMAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HAIMAN_NEW_YEAR_1
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HAIMAN_INFINITY_CONSTRUCTOR_2
+      amount: 1
+    5:
+      material_type: slimefun
+      material: CREEPER_COAL_HEART
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HAIMAN_INFINITY_CONSTRUCTOR_2
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HAIMAN_STAR_DUST
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HAIMAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: HAIMAN_STAR_DUST
+      amount: 1
+TIANXUAN_MADA:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&a&lMerak Motor'
+    lore:
+    - '&7It is assembled by disassembling various motors.'
+    material_type: skull_hash
+    material: f6cbd10b609a1ec82be786367e07093b1062a8d49d195d46a0ed8ea70c7793f4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ULTIMATE_ENERGY_MOTOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CRAFTING_MOTOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMATE_ENERGY_MOTOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CRAFTING_MOTOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CARGO_MOTOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ULTIMATE_ENERGY_MOTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CARGO_MOTOR
+      amount: 1
+HM_HONGMENG_XINPIAN:
+  lateInit: false
+  item_group: slime_customizer_material
+  item:
+    name: '&c&lHarmony Chip'
+    lore:
+    - '&7Used to make precision machines.'
+    material_type: skull_hash
+    material: 33f2b23ba182a67ed9519dc589cc0631df7155f74fbc648a5ace901dbcadbd
+    amount: 1
+  placeable: false
+  recipe_type: MAGIC_WORKBENCH
+  recipe:
+    1:
+      material_type: slimefun
+      material: HM_CHAOPING_CIRCUIT_BOARD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: TIANXUAN_MADA
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HM_CHAOPING_CIRCUIT_BOARD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HM_SHENQUAN_HEXIN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ARTIFICIAL_SILICON_BASED_MATERIALS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HM_SHENQUAN_HEXIN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HAIMAN_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: TIANXUAN_MADA
+      amount: 1
+    9:
+      material_type: slimefun
+      material: HAIMAN_INGOT
+      amount: 1
